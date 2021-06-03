@@ -1,0 +1,13 @@
+C:\Users\reiha\source\repos\LESSON2-InteractingHandsOn\LESSON2-InteractingHandsOn\bin\Debug\netcoreapp3.1\LESSON2-InteractingHandsOn.exe
+C:\Users\reiha\source\repos\LESSON2-InteractingHandsOn\LESSON2-InteractingHandsOn\bin\Debug\netcoreapp3.1\LESSON2-InteractingHandsOn.deps.json
+C:\Users\reiha\source\repos\LESSON2-InteractingHandsOn\LESSON2-InteractingHandsOn\bin\Debug\netcoreapp3.1\LESSON2-InteractingHandsOn.runtimeconfig.json
+C:\Users\reiha\source\repos\LESSON2-InteractingHandsOn\LESSON2-InteractingHandsOn\bin\Debug\netcoreapp3.1\LESSON2-InteractingHandsOn.runtimeconfig.dev.json
+C:\Users\reiha\source\repos\LESSON2-InteractingHandsOn\LESSON2-InteractingHandsOn\bin\Debug\netcoreapp3.1\LESSON2-InteractingHandsOn.dll
+C:\Users\reiha\source\repos\LESSON2-InteractingHandsOn\LESSON2-InteractingHandsOn\bin\Debug\netcoreapp3.1\LESSON2-InteractingHandsOn.pdb
+C:\Users\reiha\source\repos\LESSON2-InteractingHandsOn\LESSON2-InteractingHandsOn\obj\Debug\netcoreapp3.1\LESSON2-InteractingHandsOn.csproj.AssemblyReference.cache
+C:\Users\reiha\source\repos\LESSON2-InteractingHandsOn\LESSON2-InteractingHandsOn\obj\Debug\netcoreapp3.1\LESSON2-InteractingHandsOn.AssemblyInfoInputs.cache
+C:\Users\reiha\source\repos\LESSON2-InteractingHandsOn\LESSON2-InteractingHandsOn\obj\Debug\netcoreapp3.1\LESSON2-InteractingHandsOn.AssemblyInfo.cs
+C:\Users\reiha\source\repos\LESSON2-InteractingHandsOn\LESSON2-InteractingHandsOn\obj\Debug\netcoreapp3.1\LESSON2-InteractingHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\reiha\source\repos\LESSON2-InteractingHandsOn\LESSON2-InteractingHandsOn\obj\Debug\netcoreapp3.1\LESSON2-InteractingHandsOn.dll
+C:\Users\reiha\source\repos\LESSON2-InteractingHandsOn\LESSON2-InteractingHandsOn\obj\Debug\netcoreapp3.1\LESSON2-InteractingHandsOn.pdb
+C:\Users\reiha\source\repos\LESSON2-InteractingHandsOn\LESSON2-InteractingHandsOn\obj\Debug\netcoreapp3.1\LESSON2-InteractingHandsOn.genruntimeconfig.cache
